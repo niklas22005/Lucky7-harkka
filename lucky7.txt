@@ -45,7 +45,10 @@ public class lucky7 {
                                 System.exit(0);
                         }
                 }
+
                 System.out.println("Rahasi loppuivat");
         }
+
+        
 }
 
